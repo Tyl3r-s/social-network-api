@@ -1,0 +1,24 @@
+{
+    "name": "socialnetwork-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ryanraposo/socialnetwork-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ryanraposo/socialnetwork-api/issues"
+    },
+    "homepage": "https://github.com/ryanraposo/socialnetwork-api#readme",
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^6.6.1"
+    }
+  }
